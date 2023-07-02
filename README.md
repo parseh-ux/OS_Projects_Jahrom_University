@@ -14,7 +14,7 @@ Algorithm Name > Student Name
 Feel free to explore the projects and learn more about various algorithms related to the Operating System course.
 
 ## Projects
-- [MLFQ CPU Scheduling](MLFQ)
+- [CPU Scheduling](MLFQ)
   * [RR and SJF](MLFQ/RR_and_SJF)
     + 2022-02
       * [Amirreza_Arjmand](MLFQ/RR_and_SJF/Amirreza_Arjmand)
