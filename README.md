@@ -14,11 +14,11 @@ Algorithm Name > Student Name
 Feel free to explore the projects and learn more about various algorithms related to the Operating System course.
 
 ## Projects
-- [CPU Scheduling](MLFQ)
-  * [RR and SJF](MLFQ/RR_and_SJF)
+- [CPU Scheduling](CPU_Scheduling)
+  * [RR and SJF](CPU_Scheduling/RR_and_SJF)
     + 2022-02
-      * [Amirreza_Arjmand](MLFQ/RR_and_SJF/Amirreza_Arjmand)
-      * [Alireza_Limooie](MLFQ/RR_and_SJF/Alireza_Limooie)
+      * [Amirreza_Arjmand](CPU_Scheduling/RR_and_SJF/Amirreza_Arjmand)
+      * [Alireza_Limooie](CPU_Scheduling/RR_and_SJF/Alireza_Limooie)
 
 ## Contributors
 - [Dr. Mohammad Javad Parseh](https://github.com/parseh-ux) (Supervisor)
