@@ -1,5 +1,5 @@
 <h1>
-    <img src="assets\logo.jpg" alt="logo" width="40" height="40" /> 
+    <img src="assets\logo.jpg" alt="logo" width="60" height="60" /> 
     OS_Projects_Jahrom_University
 </h1>
 
